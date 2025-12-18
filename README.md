@@ -10,7 +10,7 @@ Beyond individual safety, the project aims to support barangay-level emergency p
 
 🛠️ Technologies Used
 
-Hardware
+**Hardware**
 
 ESP32 / Arduino Microcontroller – core controller for the wearable device
 
@@ -22,7 +22,7 @@ Panic Button – allows manual emergency triggering
 
 Rechargeable Battery & Power Management Module – powers the wearable wristband
 
-Software
+**Software**
 
 Arduino IDE – programming and firmware development
 
