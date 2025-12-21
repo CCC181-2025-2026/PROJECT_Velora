@@ -1,4 +1,4 @@
-##🎯 Project Purpose
+🎯 PROJECT PURPOSE
 
 The purpose of this project is to design and develop VELORA, an IoT-based wearable emergency response system that aims to enhance personal safety and improve emergency response efficiency within Upper Hinaplanon, Iligan City. The project addresses the critical need for a reliable and accessible emergency alert mechanism, particularly in situations where individuals are unable to use mobile phones due to injury, panic, or physical limitations.
 
@@ -8,7 +8,7 @@ Another key purpose of the project is to reduce false or accidental emergency al
 
 Beyond individual safety, the project aims to support barangay-level emergency preparedness by providing responders and local government units with real-time data that can improve decision-making and response coordination. Through the use of IoT and wearable technology, VELORA promotes innovation, encourages responsible use of digital solutions, and contributes to the development of safer, smarter, and more resilient communities.
 
-##🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED
 
 **Hardware**
 
@@ -34,7 +34,7 @@ Dashboard Interface – provides role-based access for users, families, and resp
 
 Mapping API – visualizes real-time location tracking
 
-##👥Proponents
+👥 PROPONENTS
 
 Members: 
 
@@ -45,7 +45,7 @@ Members:
  Abayan, Robbie Alan 
 
 
-##✨ Block Diagram
+✨ BLOCK DIAGRAM
 
 
 ![VELORA Block Diagram](Block%20Diagram/blockdiagram.jpg)
@@ -55,7 +55,7 @@ Members:
 
 
 
-##🎥Demo Video
+🎥 DEMO VIDEO
 
 The demonstration video can be opened at the following link:
 
