@@ -47,7 +47,7 @@ Members:
 
 ✨ Block Diagram
 
-![VELORA Block Diagram](Block_Diagram/blockdiagram.jpg)
+![VELORA Block Diagram](Block Diagram/blockdiagram.jpg)
 
 
 
