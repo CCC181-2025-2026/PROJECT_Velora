@@ -36,7 +36,10 @@ Mapping API – visualizes real-time location tracking
 
 👥Proponents
 
-Members:
+Members: 
+ Lauron, Princess 
+ Longcob, Sherie 
+ Abayan, Robbie Alan 
 
 
 ✨ Block Diagram
