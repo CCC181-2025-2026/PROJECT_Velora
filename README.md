@@ -1,3 +1,8 @@
+PROJECT_ Velora
+
+A  Wearable Emergency Response System with Location Tracking and Instant Alerts
+
+
 🎯 PROJECT PURPOSE
 
 The purpose of this project is to design and develop VELORA, an IoT-based wearable emergency response system that aims to enhance personal safety and improve emergency response efficiency within Upper Hinaplanon, Iligan City. The project addresses the critical need for a reliable and accessible emergency alert mechanism, particularly in situations where individuals are unable to use mobile phones due to injury, panic, or physical limitations.
