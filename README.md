@@ -50,5 +50,9 @@ Members:
 
 🎥Demo Video
 
+The demonstration video can be opened at the following link:
+
+https://drive.google.com/file/d/16jymD757PZi6qCXPmdW2pt2mUMVcjPkI/view?usp=sharing
+
 
 
