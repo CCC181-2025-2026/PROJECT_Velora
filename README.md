@@ -47,6 +47,9 @@ Members:
 
 ✨ Block Diagram
 
+![VELORA Block Diagram](Block_Diagram/blockdiagram.jpg)
+
+
 
 🎥Demo Video
 
