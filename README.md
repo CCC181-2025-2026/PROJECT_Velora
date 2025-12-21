@@ -38,7 +38,9 @@ Mapping API – visualizes real-time location tracking
 
 Members: 
  Lauron, Princess 
+ 
  Longcob, Sherie 
+ 
  Abayan, Robbie Alan 
 
 
